@@ -1,4 +1,4 @@
-# gptdev
+# jadsScript
 
 Este repositório possui um exemplo simples de script para enviar mensagens para um canal do Discord pela linha de comando.
 
