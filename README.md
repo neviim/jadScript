@@ -5,11 +5,14 @@ Este repositório possui um exemplo simples de script para enviar mensagens para
 ## Como usar
 
 1. Copie o arquivo `.env.example` para `.env` e preencha `DISCORD_TOKEN` e `DISCORD_CHANNEL_ID` com os valores corretos do seu bot e do canal/grupo no Discord.
+
    ```bash
    cp .env.example .env
    # edite o arquivo .env e preencha suas credenciais
    ```
+
 2. Envie uma mensagem executando o script:
+
    ```bash
    ./send_discord_message.sh "Sua mensagem aqui"
    ```
